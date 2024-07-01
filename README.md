@@ -7,4 +7,5 @@
 ![image](https://github.com/yogesh2142/SQL_Practice.com-Question/assets/112725725/dad30f5d-0e7e-4dea-bd98-26885674ff7e)
 ![image](https://github.com/yogesh2142/SQL_Practice.com-Question/assets/112725725/4dc64d5c-8328-4e42-8499-9dee04a5890b)
 ![image](https://github.com/yogesh2142/SQL_Practice.com-Question/assets/112725725/ecc811cb-7e0d-423f-a920-f4263aca00df)
-![image](https://github.com/yogesh2142/SQL_Practice.com-Question/assets/112725725/3c4c38bc-fa4d-4dc4-b04c-1fc6009f8841)
+![image](https://github.com/yogesh2142/SQL_Practice.com-Question/assets/112725725/7535ae32-29a1-4b64-9ca6-4960415c1f36)
+
