@@ -12,4 +12,5 @@
 ![image](https://github.com/yogesh2142/SQL_Practice.com-Question/assets/112725725/1c2ee6ea-0472-4871-860a-0a88246c4df2)
 ![image](https://github.com/yogesh2142/SQL_Practice.com-Question/assets/112725725/2e8b46fc-7e14-4cec-825d-7a10e3edf9dd)
 ![image](https://github.com/yogesh2142/SQL_Practice.com-Question/assets/112725725/b7947c62-43c2-4ed7-a009-bfc58cdc25fc)
+![image](https://github.com/yogesh2142/SQL_Practice.com-Question/assets/112725725/c2480464-5671-4738-94ec-a4bf9df0751f)
 
